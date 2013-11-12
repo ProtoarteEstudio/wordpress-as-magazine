@@ -2,3 +2,26 @@ wordpress-as-magazine
 =====================
 
 Wordpress hacks, plug-ins and settings we use on The Civic Beat to make it a fully fledged online magazine
+
+
+**General**
+
+- [Wordpress Multisite](http://codex.wordpress.org/Create_A_Network): Simply the easiest way to create and maintain multiple sites. Having multisite turned on at the offset also allows us to add in content channels later when we expand.
+
+
+**Themes**
+
+- [Bones](http://themble.com/bones/): Marketed as "The HTML5 Wordpress Starter Theme," we use Bones over other frameworks because it's straightforward and simple, and because we end up writing the styling code from scratch anyway. Bones does provide us with a responsive grid framework as well, and has SCSS and LESS support.
+
+
+**Plug-ins (specific)**
+
+- [Co-Authors Plus](http://wordpress.org/plugins/co-authors-plus/): Allows multiple authors to be credited for a post, as well as guest authors (who don't need to have an account on your Wordpress setup). Great when we collaborate on more complex pieces, or when one person researches while another writes.
+- [Secondary HTML Content](http://get10up.com/plugins/secondary-html-content-wordpress/): This lets us have a second rich text block for our posts. In our [Reader](http://reader.thecivicbeat.com), we use this for our *Learn More* section that goes at the end of each article.
+- [Show Private](http://amib.ir/weblog/?p=153): Allows post drafts to be published at a private URL. Great for getting feedback on a document from people who might not otherwise want to log into the Wordpress dashboard and find it there. (Or who don't have access to the Wordpress dashboard!)
+- [Side Matter](http://wordpress.org/extend/plugins/side-matter/): Brilliant, brilliant plug-in that creates what we think of as webpage footnotes – that is, footnotes that go on the left or right of the text. This makes them accessible where having a footnote at the bottom of a long article is an accessibility nightmare.
+
+
+**Plug-ins (general)**
+
+- Coming soon.
