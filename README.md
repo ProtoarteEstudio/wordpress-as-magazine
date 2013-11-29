@@ -24,8 +24,8 @@ Wordpress hacks, plug-ins and settings we use on [The Civic Beat Reader](http://
 
 **Plug-ins (general)**
 
-- [Feedstats](http://wordpress.org/plugins/feedstats-de/): Get a count of how many RSS subscribers you have! Important!
-- Google Analytics... search on Wordpress and take your pick. I'm not enough of an expert to know which is best.
+- [Feed Statistics](http://www.chrisfinke.com/wordpress/plugins/feed-statistics/): Get a count of how many RSS subscribers you have! Important!
+- [Google Analaytics MU](https://github.com/foe-services/google-analytics-mu): Supports networks better than most other Google Analytics plug-ins. But apply the [second fix from here](http://www.netcel.com/Resources/Insights/White-papers/6-must-have-google-analytics-filters/) to get proper subdomain support.
 - [Jetpback by Wordpress.com](http://wordpress.org/plugins/jetpack/): Little add-ons helpful. The killer feature for me is the Site Stats, which lets me get visitor stats without leaving the Wordpress dashboard.
 - [Types](http://wordpress.org/extend/plugins/types/): We use custom types for our Countries/Place metadata, and the Types plug-in gives us a nice GUI to do that.
 - [W3 Total Cache](http://www.w3-edge.com/wordpress-plugins/w3-total-cache/): We don't have enough traffic to know whether this makes a difference but it was highly recommended by other sites and blogs.
